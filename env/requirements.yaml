@@ -10,6 +10,9 @@ dependencies:
 - name: node-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.9
+- name: node-test-white
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.4
 - name: quick-node
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
